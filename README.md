@@ -1,4 +1,4 @@
-![Churn rate by contract length](assets_header.png)
+![Churn rate by contract length](assets/header.png)
 # SaaS Retention Analysis: Churn Modeling + A/B Test Design
 
 **End-to-end product DS portfolio project: from churn modeling to a pre-registered A/B test proposal for a high-risk telco subscriber segment.**
