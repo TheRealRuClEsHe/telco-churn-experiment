@@ -1,5 +1,8 @@
+# Ignore data files, database files
 *.csv
 *.db
+
+# and Python cache files
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
